@@ -11,6 +11,10 @@ const hablar = () => {
     "ctm",
     "marica",
     "maricon",
+    "arrecha",
+    "arrecha",
+    "chupala",
+    "pichula"
   ];
 
   //instancia del speech
